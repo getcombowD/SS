@@ -1,5 +1,10 @@
 @font-face {
-   font-family: 'amiga4ever pro';
+   font-family: 'Blah blah bang';
    font-display: swap;
-   src: url('amiga4ever pro/font.ttf');
+   src: url('Blah blah bang/font.ttf');
+}
+@font-face {
+   font-family: 'Berton-Roman-trial';
+   font-display: swap;
+   src: url('Berton-Roman-trial/font.ttf');
 }
